@@ -1,4 +1,5 @@
 
+
 # 🌟 **Raw Modern Portfolio**
 
 ![Portfolio Screenshot](https://cloud-n8woqdtu5-hack-club-bot.vercel.app/0screenshot_2025-01-25_at_6.53.26___pm.png)
@@ -36,12 +37,12 @@ A minimalist, modern, and fully responsive **portfolio website** crafted with pu
 
 1.  **Clone the repository**:
 ```bash
-    `git clone https://github.com/nurahmed123/raw-modern-portfolio-H.git` 
+    git clone https://github.com/nurahmed123/raw-modern-portfolio-H.git 
 ```
 2.  **Navigate into the project folder**:
     
 ```bash
-    `cd raw-modern-portfolio-H` 
+    cd raw-modern-portfolio-H
 ```
 3.  **Open the index.html file** in your favorite browser:
     
@@ -94,15 +95,15 @@ If you'd like to add new features or enhance the project, follow these steps:
     
 2.  Create a new branch:
 ```bash
-    `git checkout -b feature/your-feature-name` 
+    git checkout -b feature/your-feature-name
 ```
 3.  Commit your changes:
 ```bash
-    `git commit -m "Add your feature description"` 
+    git commit -m "Add your feature description"
 ```
 4.  Push to your branch:
 ```bash
-    `git push origin feature/your-feature-name` 
+    git push origin feature/your-feature-name
 ```
 5.  Open a Pull Request.
     
